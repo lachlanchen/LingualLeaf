@@ -8,6 +8,8 @@ const errorNode = document.querySelector("#reader-error");
 const downloadLink = document.querySelector("#download-link");
 const prevButton = document.querySelector("#prev-page");
 const nextButton = document.querySelector("#next-page");
+const rawBase = "https://raw.githubusercontent.com/lachlanchen/LinguaLeaf/main/";
+const isGithubPages = window.location.hostname.endsWith("github.io");
 
 let pdfDoc = null;
 let pageNum = 1;
@@ -23,7 +25,9 @@ function showError(message) {
 function pdfUrl() {
   if (!file) return "";
   if (/^https?:\/\//i.test(file)) return file;
-  return `../${file.replace(/^\/+/, "")}`;
+  const clean = file.replace(/^\/+/, "");
+  if (!isGithubPages) return `../${clean}`;
+  return rawBase + clean.split("/").map(encodeURIComponent).join("/");
 }
 
 async function renderPage(num) {

@@ -1,4 +1,8 @@
-const manifestUrl = "../references/max-language-large-font-exports.json";
+const rawBase = "https://raw.githubusercontent.com/lachlanchen/LinguaLeaf/main/";
+const isGithubPages = window.location.hostname.endsWith("github.io");
+const manifestUrl = isGithubPages
+  ? rawUrl("references/max-language-large-font-exports.json")
+  : "../references/max-language-large-font-exports.json";
 const grid = document.querySelector("#book-grid");
 const searchInput = document.querySelector("#search");
 const filters = document.querySelector("#family-filters");
@@ -13,6 +17,15 @@ const familyLabels = {
   "wenyan-en-jp-zh": "文言文 / English / 日本語 / 中文",
   "wenyan-jp-zh": "文言文 / 日本語 / 中文",
 };
+
+function rawUrl(path) {
+  return rawBase + path.split("/").map(encodeURIComponent).join("/");
+}
+
+function assetUrl(path) {
+  if (!path) return "";
+  return isGithubPages ? rawUrl(path) : `../${path}`;
+}
 
 function stripTitle(path) {
   const file = decodeURIComponent(path.split("/").pop() || "").replace(/\.pdf$/i, "");
@@ -101,7 +114,7 @@ function renderCatalog() {
   for (const book of visible) {
     const color = book.modes.color;
     const blackwhite = book.modes.blackwhite;
-    const preview = book.preview ? `../${book.preview}` : "";
+    const preview = assetUrl(book.preview);
     const card = document.createElement("article");
     card.className = "book-card";
     card.innerHTML = `
