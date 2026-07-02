@@ -1,18 +1,7 @@
 {
-  "schema": "lingualleaf.max-language-large-font.v1",
-  "generated_from": "tracked PDFs under docs/pocketpolyglot/books",
+  "source": "docs/pocketpolyglot/books",
+  "generated_by": "scripts/books/refresh_lingualleaf_catalog.py",
   "rows": [
-    {
-      "book_id": "a-city-on-mars",
-      "family": "en-jp-zh",
-      "edition": "en-main-jp-zh",
-      "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/a-city-on-mars/en-main-jp-zh/blackwhite/A City on Mars（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/a-city-on-mars/en-main-jp-zh/blackwhite/A City on Mars（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "preview": "assets/max-language-previews/a-city-on-mars.png",
-      "export_mib": "9.2",
-      "status": "ok"
-    },
     {
       "book_id": "a-city-on-mars",
       "family": "en-jp-zh",
@@ -25,14 +14,36 @@
       "status": "ok"
     },
     {
-      "book_id": "botchan",
+      "book_id": "a-city-on-mars",
       "family": "en-jp-zh",
       "edition": "en-main-jp-zh",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/botchan/en-main-jp-zh/blackwhite/Botchan（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/botchan/en-main-jp-zh/blackwhite/Botchan（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "preview": "assets/max-language-previews/botchan.png",
-      "export_mib": "4.6",
+      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/a-city-on-mars/en-main-jp-zh/blackwhite/A City on Mars（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/a-city-on-mars/en-main-jp-zh/blackwhite/A City on Mars（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/a-city-on-mars.png",
+      "export_mib": "9.2",
+      "status": "ok"
+    },
+    {
+      "book_id": "bible",
+      "family": "en-jp-zh",
+      "edition": "en-main-jp-zh",
+      "mode": "color",
+      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/bible/en-main-jp-zh/color/The Holy Bible（日文・中文注）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/bible/en-main-jp-zh/color/The Holy Bible（日文・中文注）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/bible.png",
+      "export_mib": "51.9",
+      "status": "ok"
+    },
+    {
+      "book_id": "bible",
+      "family": "en-jp-zh",
+      "edition": "en-main-jp-zh",
+      "mode": "blackwhite",
+      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/bible/en-main-jp-zh/blackwhite/The Holy Bible（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/bible/en-main-jp-zh/blackwhite/The Holy Bible（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/bible.png",
+      "export_mib": "45.8",
       "status": "ok"
     },
     {
@@ -47,14 +58,14 @@
       "status": "ok"
     },
     {
-      "book_id": "genji-modern",
+      "book_id": "botchan",
       "family": "en-jp-zh",
       "edition": "en-main-jp-zh",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/genji-modern/en-main-jp-zh/blackwhite/The Tale of Genji（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/genji-modern/en-main-jp-zh/blackwhite/The Tale of Genji（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "preview": "assets/max-language-previews/genji-modern.png",
-      "export_mib": "39.4",
+      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/botchan/en-main-jp-zh/blackwhite/Botchan（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/botchan/en-main-jp-zh/blackwhite/Botchan（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/botchan.png",
+      "export_mib": "4.6",
       "status": "ok"
     },
     {
@@ -69,14 +80,14 @@
       "status": "ok"
     },
     {
-      "book_id": "gone-with-the-wind",
+      "book_id": "genji-modern",
       "family": "en-jp-zh",
       "edition": "en-main-jp-zh",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/gone-with-the-wind/en-main-jp-zh/blackwhite/Gone With the Wind（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/gone-with-the-wind/en-main-jp-zh/blackwhite/Gone With the Wind（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "preview": "assets/max-language-previews/gone-with-the-wind.png",
-      "export_mib": "33.1",
+      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/genji-modern/en-main-jp-zh/blackwhite/The Tale of Genji（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/genji-modern/en-main-jp-zh/blackwhite/The Tale of Genji（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/genji-modern.png",
+      "export_mib": "39.4",
       "status": "ok"
     },
     {
@@ -91,14 +102,14 @@
       "status": "ok"
     },
     {
-      "book_id": "i-am-a-cat",
+      "book_id": "gone-with-the-wind",
       "family": "en-jp-zh",
       "edition": "en-main-jp-zh",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/i-am-a-cat/en-main-jp-zh/blackwhite/I Am a Cat（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/i-am-a-cat/en-main-jp-zh/blackwhite/I Am a Cat（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "preview": "assets/max-language-previews/i-am-a-cat.png",
-      "export_mib": "13.1",
+      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/gone-with-the-wind/en-main-jp-zh/blackwhite/Gone With the Wind（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/gone-with-the-wind/en-main-jp-zh/blackwhite/Gone With the Wind（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/gone-with-the-wind.png",
+      "export_mib": "33.1",
       "status": "ok"
     },
     {
@@ -113,14 +124,14 @@
       "status": "ok"
     },
     {
-      "book_id": "inugami-curse",
+      "book_id": "i-am-a-cat",
       "family": "en-jp-zh",
       "edition": "en-main-jp-zh",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/inugami-curse/en-main-jp-zh/blackwhite/The Inugami Curse（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/inugami-curse/en-main-jp-zh/blackwhite/The Inugami Curse（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "preview": "assets/max-language-previews/inugami-curse.png",
-      "export_mib": "7.3",
+      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/i-am-a-cat/en-main-jp-zh/blackwhite/I Am a Cat（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/i-am-a-cat/en-main-jp-zh/blackwhite/I Am a Cat（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/i-am-a-cat.png",
+      "export_mib": "13.1",
       "status": "ok"
     },
     {
@@ -135,14 +146,14 @@
       "status": "ok"
     },
     {
-      "book_id": "izu-no-odori",
+      "book_id": "inugami-curse",
       "family": "en-jp-zh",
       "edition": "en-main-jp-zh",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/izu-no-odori/en-main-jp-zh/blackwhite/The Dancing Girl of Izu（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/izu-no-odori/en-main-jp-zh/blackwhite/The Dancing Girl of Izu（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "preview": "assets/max-language-previews/izu-no-odori.png",
-      "export_mib": "7.1",
+      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/inugami-curse/en-main-jp-zh/blackwhite/The Inugami Curse（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/inugami-curse/en-main-jp-zh/blackwhite/The Inugami Curse（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/inugami-curse.png",
+      "export_mib": "7.3",
       "status": "ok"
     },
     {
@@ -157,14 +168,14 @@
       "status": "ok"
     },
     {
-      "book_id": "jane-eyre",
+      "book_id": "izu-no-odori",
       "family": "en-jp-zh",
       "edition": "en-main-jp-zh",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/jane-eyre/en-main-jp-zh/blackwhite/Jane Eyre（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/jane-eyre/en-main-jp-zh/blackwhite/Jane Eyre（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "preview": "assets/max-language-previews/jane-eyre.png",
-      "export_mib": "15.0",
+      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/izu-no-odori/en-main-jp-zh/blackwhite/The Dancing Girl of Izu（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/izu-no-odori/en-main-jp-zh/blackwhite/The Dancing Girl of Izu（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/izu-no-odori.png",
+      "export_mib": "7.1",
       "status": "ok"
     },
     {
@@ -179,14 +190,14 @@
       "status": "ok"
     },
     {
-      "book_id": "japanese-history",
+      "book_id": "jane-eyre",
       "family": "en-jp-zh",
       "edition": "en-main-jp-zh",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/japanese-history/en-main-jp-zh/blackwhite/A Concise History of Japan（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/japanese-history/en-main-jp-zh/blackwhite/A Concise History of Japan（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "preview": "assets/max-language-previews/japanese-history.png",
-      "export_mib": "9.3",
+      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/jane-eyre/en-main-jp-zh/blackwhite/Jane Eyre（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/jane-eyre/en-main-jp-zh/blackwhite/Jane Eyre（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/jane-eyre.png",
+      "export_mib": "15.0",
       "status": "ok"
     },
     {
@@ -201,14 +212,14 @@
       "status": "ok"
     },
     {
-      "book_id": "kinkakuji",
+      "book_id": "japanese-history",
       "family": "en-jp-zh",
       "edition": "en-main-jp-zh",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/kinkakuji/en-main-jp-zh/blackwhite/The Temple of the Golden Pavilion（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/kinkakuji/en-main-jp-zh/blackwhite/The Temple of the Golden Pavilion（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "preview": "assets/max-language-previews/kinkakuji.png",
-      "export_mib": "7.1",
+      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/japanese-history/en-main-jp-zh/blackwhite/A Concise History of Japan（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/japanese-history/en-main-jp-zh/blackwhite/A Concise History of Japan（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/japanese-history.png",
+      "export_mib": "9.3",
       "status": "ok"
     },
     {
@@ -223,14 +234,36 @@
       "status": "ok"
     },
     {
-      "book_id": "kokoro",
+      "book_id": "kinkakuji",
       "family": "en-jp-zh",
       "edition": "en-main-jp-zh",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/kokoro/en-main-jp-zh/blackwhite/Kokoro（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/kokoro/en-main-jp-zh/blackwhite/Kokoro（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "preview": "assets/max-language-previews/kokoro.png",
-      "export_mib": "6.0",
+      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/kinkakuji/en-main-jp-zh/blackwhite/The Temple of the Golden Pavilion（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/kinkakuji/en-main-jp-zh/blackwhite/The Temple of the Golden Pavilion（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/kinkakuji.png",
+      "export_mib": "7.1",
+      "status": "ok"
+    },
+    {
+      "book_id": "kokin-wakashu",
+      "family": "en-jp-zh",
+      "edition": "en-main-jp-zh",
+      "mode": "color",
+      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/kokin-wakashu/en-main-jp-zh/color/Kokin Wakashu（日文・中文注）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/kokin-wakashu/en-main-jp-zh/color/Kokin Wakashu（日文・中文注）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/kokin-wakashu.png",
+      "export_mib": "4.5",
+      "status": "ok"
+    },
+    {
+      "book_id": "kokin-wakashu",
+      "family": "en-jp-zh",
+      "edition": "en-main-jp-zh",
+      "mode": "blackwhite",
+      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/kokin-wakashu/en-main-jp-zh/blackwhite/Kokin Wakashu（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/kokin-wakashu/en-main-jp-zh/blackwhite/Kokin Wakashu（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/kokin-wakashu.png",
+      "export_mib": "3.8",
       "status": "ok"
     },
     {
@@ -245,14 +278,14 @@
       "status": "ok"
     },
     {
-      "book_id": "les-miserables",
+      "book_id": "kokoro",
       "family": "en-jp-zh",
       "edition": "en-main-jp-zh",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/les-miserables/en-main-jp-zh/blackwhite/Les Misérables（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/les-miserables/en-main-jp-zh/blackwhite/Les Misérables（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "preview": "assets/max-language-previews/les-miserables.png",
-      "export_mib": "41.5",
+      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/kokoro/en-main-jp-zh/blackwhite/Kokoro（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/kokoro/en-main-jp-zh/blackwhite/Kokoro（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/kokoro.png",
+      "export_mib": "6.0",
       "status": "ok"
     },
     {
@@ -263,18 +296,18 @@
       "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/les-miserables/en-main-jp-zh/color/Les Misérables（日文・中文注）・最大語種・大字版.pdf",
       "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/les-miserables/en-main-jp-zh/color/Les Misérables（日文・中文注）・最大語種・大字版.pdf",
       "preview": "assets/max-language-previews/les-miserables.png",
-      "export_mib": "50.9",
+      "export_mib": "50.7",
       "status": "ok"
     },
     {
-      "book_id": "martian-chronicles",
+      "book_id": "les-miserables",
       "family": "en-jp-zh",
       "edition": "en-main-jp-zh",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/martian-chronicles/en-main-jp-zh/blackwhite/The Martian Chronicles（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/martian-chronicles/en-main-jp-zh/blackwhite/The Martian Chronicles（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "preview": "assets/max-language-previews/martian-chronicles.png",
-      "export_mib": "6.3",
+      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/les-miserables/en-main-jp-zh/blackwhite/Les Misérables（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/les-miserables/en-main-jp-zh/blackwhite/Les Misérables（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/les-miserables.png",
+      "export_mib": "41.2",
       "status": "ok"
     },
     {
@@ -289,14 +322,14 @@
       "status": "ok"
     },
     {
-      "book_id": "no-longer-human",
+      "book_id": "martian-chronicles",
       "family": "en-jp-zh",
       "edition": "en-main-jp-zh",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/no-longer-human/en-main-jp-zh/blackwhite/No Longer Human（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/no-longer-human/en-main-jp-zh/blackwhite/No Longer Human（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "preview": "assets/max-language-previews/no-longer-human.png",
-      "export_mib": "3.4",
+      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/martian-chronicles/en-main-jp-zh/blackwhite/The Martian Chronicles（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/martian-chronicles/en-main-jp-zh/blackwhite/The Martian Chronicles（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/martian-chronicles.png",
+      "export_mib": "6.3",
       "status": "ok"
     },
     {
@@ -311,14 +344,14 @@
       "status": "ok"
     },
     {
-      "book_id": "notre-dame-de-paris",
+      "book_id": "no-longer-human",
       "family": "en-jp-zh",
       "edition": "en-main-jp-zh",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/notre-dame-de-paris/en-main-jp-zh/blackwhite/Notre-Dame de Paris（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/notre-dame-de-paris/en-main-jp-zh/blackwhite/Notre-Dame de Paris（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "preview": "assets/max-language-previews/notre-dame-de-paris.png",
-      "export_mib": "14.6",
+      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/no-longer-human/en-main-jp-zh/blackwhite/No Longer Human（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/no-longer-human/en-main-jp-zh/blackwhite/No Longer Human（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/no-longer-human.png",
+      "export_mib": "3.4",
       "status": "ok"
     },
     {
@@ -333,14 +366,14 @@
       "status": "ok"
     },
     {
-      "book_id": "one-hundred-years-of-solitude",
+      "book_id": "notre-dame-de-paris",
       "family": "en-jp-zh",
       "edition": "en-main-jp-zh",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/one-hundred-years-of-solitude/en-main-jp-zh/blackwhite/One Hundred Years of Solitude（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/one-hundred-years-of-solitude/en-main-jp-zh/blackwhite/One Hundred Years of Solitude（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "preview": "assets/max-language-previews/one-hundred-years-of-solitude.png",
-      "export_mib": "11.1",
+      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/notre-dame-de-paris/en-main-jp-zh/blackwhite/Notre-Dame de Paris（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/notre-dame-de-paris/en-main-jp-zh/blackwhite/Notre-Dame de Paris（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/notre-dame-de-paris.png",
+      "export_mib": "14.6",
       "status": "ok"
     },
     {
@@ -355,14 +388,14 @@
       "status": "ok"
     },
     {
-      "book_id": "rashomon-stories",
+      "book_id": "one-hundred-years-of-solitude",
       "family": "en-jp-zh",
       "edition": "en-main-jp-zh",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/rashomon-stories/en-main-jp-zh/blackwhite/Rashomon Stories（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/rashomon-stories/en-main-jp-zh/blackwhite/Rashomon Stories（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "preview": "assets/max-language-previews/rashomon-stories.png",
-      "export_mib": "6.8",
+      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/one-hundred-years-of-solitude/en-main-jp-zh/blackwhite/One Hundred Years of Solitude（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/one-hundred-years-of-solitude/en-main-jp-zh/blackwhite/One Hundred Years of Solitude（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/one-hundred-years-of-solitude.png",
+      "export_mib": "11.1",
       "status": "ok"
     },
     {
@@ -377,14 +410,14 @@
       "status": "ok"
     },
     {
-      "book_id": "red-mars",
+      "book_id": "rashomon-stories",
       "family": "en-jp-zh",
       "edition": "en-main-jp-zh",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/red-mars/en-main-jp-zh/blackwhite/Red Mars（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/red-mars/en-main-jp-zh/blackwhite/Red Mars（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "preview": "assets/max-language-previews/red-mars.png",
-      "export_mib": "17.1",
+      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/rashomon-stories/en-main-jp-zh/blackwhite/Rashomon Stories（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/rashomon-stories/en-main-jp-zh/blackwhite/Rashomon Stories（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/rashomon-stories.png",
+      "export_mib": "6.8",
       "status": "ok"
     },
     {
@@ -399,14 +432,14 @@
       "status": "ok"
     },
     {
-      "book_id": "red-rising-1",
+      "book_id": "red-mars",
       "family": "en-jp-zh",
       "edition": "en-main-jp-zh",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/red-rising-1/en-main-jp-zh/blackwhite/Red Rising（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/red-rising-1/en-main-jp-zh/blackwhite/Red Rising（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "preview": "assets/max-language-previews/red-rising-1.png",
-      "export_mib": "11.6",
+      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/red-mars/en-main-jp-zh/blackwhite/Red Mars（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/red-mars/en-main-jp-zh/blackwhite/Red Mars（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/red-mars.png",
+      "export_mib": "17.1",
       "status": "ok"
     },
     {
@@ -421,14 +454,14 @@
       "status": "ok"
     },
     {
-      "book_id": "red-rising-2",
+      "book_id": "red-rising-1",
       "family": "en-jp-zh",
       "edition": "en-main-jp-zh",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/red-rising-2/en-main-jp-zh/blackwhite/Golden Son（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/red-rising-2/en-main-jp-zh/blackwhite/Golden Son（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "preview": "assets/max-language-previews/red-rising-2.png",
-      "export_mib": "13.3",
+      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/red-rising-1/en-main-jp-zh/blackwhite/Red Rising（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/red-rising-1/en-main-jp-zh/blackwhite/Red Rising（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/red-rising-1.png",
+      "export_mib": "11.6",
       "status": "ok"
     },
     {
@@ -443,14 +476,14 @@
       "status": "ok"
     },
     {
-      "book_id": "red-rising-3",
+      "book_id": "red-rising-2",
       "family": "en-jp-zh",
       "edition": "en-main-jp-zh",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/red-rising-3/en-main-jp-zh/blackwhite/Morning Star（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/red-rising-3/en-main-jp-zh/blackwhite/Morning Star（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "preview": "assets/max-language-previews/red-rising-3.png",
-      "export_mib": "15.3",
+      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/red-rising-2/en-main-jp-zh/blackwhite/Golden Son（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/red-rising-2/en-main-jp-zh/blackwhite/Golden Son（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/red-rising-2.png",
+      "export_mib": "13.3",
       "status": "ok"
     },
     {
@@ -465,14 +498,14 @@
       "status": "ok"
     },
     {
-      "book_id": "snow-country",
+      "book_id": "red-rising-3",
       "family": "en-jp-zh",
       "edition": "en-main-jp-zh",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/snow-country/en-main-jp-zh/blackwhite/Snow Country（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/snow-country/en-main-jp-zh/blackwhite/Snow Country（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "preview": "assets/max-language-previews/snow-country.png",
-      "export_mib": "3.7",
+      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/red-rising-3/en-main-jp-zh/blackwhite/Morning Star（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/red-rising-3/en-main-jp-zh/blackwhite/Morning Star（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/red-rising-3.png",
+      "export_mib": "15.3",
       "status": "ok"
     },
     {
@@ -487,14 +520,14 @@
       "status": "ok"
     },
     {
-      "book_id": "spring-snow",
+      "book_id": "snow-country",
       "family": "en-jp-zh",
       "edition": "en-main-jp-zh",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/spring-snow/en-main-jp-zh/blackwhite/Spring Snow（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/spring-snow/en-main-jp-zh/blackwhite/Spring Snow（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "preview": "assets/max-language-previews/spring-snow.png",
-      "export_mib": "10.7",
+      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/snow-country/en-main-jp-zh/blackwhite/Snow Country（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/snow-country/en-main-jp-zh/blackwhite/Snow Country（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/snow-country.png",
+      "export_mib": "3.7",
       "status": "ok"
     },
     {
@@ -509,14 +542,14 @@
       "status": "ok"
     },
     {
-      "book_id": "the-count-of-monte-cristo",
+      "book_id": "spring-snow",
       "family": "en-jp-zh",
       "edition": "en-main-jp-zh",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/the-count-of-monte-cristo/en-main-jp-zh/blackwhite/The Count of Monte Cristo（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/the-count-of-monte-cristo/en-main-jp-zh/blackwhite/The Count of Monte Cristo（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "preview": "assets/max-language-previews/the-count-of-monte-cristo.png",
-      "export_mib": "34.1",
+      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/spring-snow/en-main-jp-zh/blackwhite/Spring Snow（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/spring-snow/en-main-jp-zh/blackwhite/Spring Snow（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/spring-snow.png",
+      "export_mib": "10.7",
       "status": "ok"
     },
     {
@@ -531,14 +564,14 @@
       "status": "ok"
     },
     {
-      "book_id": "the-martian",
+      "book_id": "the-count-of-monte-cristo",
       "family": "en-jp-zh",
       "edition": "en-main-jp-zh",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/the-martian/en-main-jp-zh/blackwhite/The Martian（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/the-martian/en-main-jp-zh/blackwhite/The Martian（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "preview": "assets/max-language-previews/the-martian.png",
-      "export_mib": "9.3",
+      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/the-count-of-monte-cristo/en-main-jp-zh/blackwhite/The Count of Monte Cristo（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/the-count-of-monte-cristo/en-main-jp-zh/blackwhite/The Count of Monte Cristo（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/the-count-of-monte-cristo.png",
+      "export_mib": "34.1",
       "status": "ok"
     },
     {
@@ -553,14 +586,14 @@
       "status": "ok"
     },
     {
-      "book_id": "the-old-capital",
+      "book_id": "the-martian",
       "family": "en-jp-zh",
       "edition": "en-main-jp-zh",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/the-old-capital/en-main-jp-zh/blackwhite/The Old Capital（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/the-old-capital/en-main-jp-zh/blackwhite/The Old Capital（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "preview": "assets/max-language-previews/the-old-capital.png",
-      "export_mib": "7.9",
+      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/the-martian/en-main-jp-zh/blackwhite/The Martian（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/the-martian/en-main-jp-zh/blackwhite/The Martian（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/the-martian.png",
+      "export_mib": "9.3",
       "status": "ok"
     },
     {
@@ -575,14 +608,14 @@
       "status": "ok"
     },
     {
-      "book_id": "the-sirens-of-mars",
+      "book_id": "the-old-capital",
       "family": "en-jp-zh",
       "edition": "en-main-jp-zh",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/the-sirens-of-mars/en-main-jp-zh/blackwhite/The Sirens of Mars（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/the-sirens-of-mars/en-main-jp-zh/blackwhite/The Sirens of Mars（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "preview": "assets/max-language-previews/the-sirens-of-mars.png",
-      "export_mib": "6.3",
+      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/the-old-capital/en-main-jp-zh/blackwhite/The Old Capital（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/the-old-capital/en-main-jp-zh/blackwhite/The Old Capital（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/the-old-capital.png",
+      "export_mib": "7.9",
       "status": "ok"
     },
     {
@@ -597,14 +630,14 @@
       "status": "ok"
     },
     {
-      "book_id": "woman-in-the-dunes",
+      "book_id": "the-sirens-of-mars",
       "family": "en-jp-zh",
       "edition": "en-main-jp-zh",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/woman-in-the-dunes/en-main-jp-zh/blackwhite/The Woman in the Dunes（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/woman-in-the-dunes/en-main-jp-zh/blackwhite/The Woman in the Dunes（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "preview": "assets/max-language-previews/woman-in-the-dunes.png",
-      "export_mib": "5.5",
+      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/the-sirens-of-mars/en-main-jp-zh/blackwhite/The Sirens of Mars（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/the-sirens-of-mars/en-main-jp-zh/blackwhite/The Sirens of Mars（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/the-sirens-of-mars.png",
+      "export_mib": "6.3",
       "status": "ok"
     },
     {
@@ -619,14 +652,14 @@
       "status": "ok"
     },
     {
-      "book_id": "wuthering-heights",
+      "book_id": "woman-in-the-dunes",
       "family": "en-jp-zh",
       "edition": "en-main-jp-zh",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/wuthering-heights/en-main-jp-zh/blackwhite/Wuthering Heights（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/wuthering-heights/en-main-jp-zh/blackwhite/Wuthering Heights（日文・中文注・黑白）・最大語種・大字版.pdf",
-      "preview": "assets/max-language-previews/wuthering-heights.png",
-      "export_mib": "10.9",
+      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/woman-in-the-dunes/en-main-jp-zh/blackwhite/The Woman in the Dunes（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/woman-in-the-dunes/en-main-jp-zh/blackwhite/The Woman in the Dunes（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/woman-in-the-dunes.png",
+      "export_mib": "5.5",
       "status": "ok"
     },
     {
@@ -641,14 +674,14 @@
       "status": "ok"
     },
     {
-      "book_id": "chumon-no-ooi-ryoriten",
-      "family": "jp-zh",
-      "edition": "jp-main",
+      "book_id": "wuthering-heights",
+      "family": "en-jp-zh",
+      "edition": "en-main-jp-zh",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/jp-zh/chumon-no-ooi-ryoriten/jp-main/blackwhite/注文の多い料理店（中文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/jp-zh/chumon-no-ooi-ryoriten/jp-main/blackwhite/注文の多い料理店（中文注・黑白）・最大語種・大字版.pdf",
-      "preview": "assets/max-language-previews/chumon-no-ooi-ryoriten.png",
-      "export_mib": "0.5",
+      "export_pdf": "docs/pocketpolyglot/books/en-jp-zh/wuthering-heights/en-main-jp-zh/blackwhite/Wuthering Heights（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/en-jp-zh/wuthering-heights/en-main-jp-zh/blackwhite/Wuthering Heights（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/wuthering-heights.png",
+      "export_mib": "10.9",
       "status": "ok"
     },
     {
@@ -665,10 +698,10 @@
     {
       "book_id": "chumon-no-ooi-ryoriten",
       "family": "jp-zh",
-      "edition": "zh-main",
+      "edition": "jp-main",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/jp-zh/chumon-no-ooi-ryoriten/zh-main/blackwhite/要求太多的餐馆（日文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/jp-zh/chumon-no-ooi-ryoriten/zh-main/blackwhite/要求太多的餐馆（日文注・黑白）・最大語種・大字版.pdf",
+      "export_pdf": "docs/pocketpolyglot/books/jp-zh/chumon-no-ooi-ryoriten/jp-main/blackwhite/注文の多い料理店（中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/jp-zh/chumon-no-ooi-ryoriten/jp-main/blackwhite/注文の多い料理店（中文注・黑白）・最大語種・大字版.pdf",
       "preview": "assets/max-language-previews/chumon-no-ooi-ryoriten.png",
       "export_mib": "0.5",
       "status": "ok"
@@ -685,14 +718,14 @@
       "status": "ok"
     },
     {
-      "book_id": "ginga-tetsudo",
+      "book_id": "chumon-no-ooi-ryoriten",
       "family": "jp-zh",
-      "edition": "jp-main",
+      "edition": "zh-main",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/jp-zh/ginga-tetsudo/jp-main/blackwhite/銀河鉄道の夜（中文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/jp-zh/ginga-tetsudo/jp-main/blackwhite/銀河鉄道の夜（中文注・黑白）・最大語種・大字版.pdf",
-      "preview": "assets/max-language-previews/ginga-tetsudo.png",
-      "export_mib": "1.6",
+      "export_pdf": "docs/pocketpolyglot/books/jp-zh/chumon-no-ooi-ryoriten/zh-main/blackwhite/要求太多的餐馆（日文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/jp-zh/chumon-no-ooi-ryoriten/zh-main/blackwhite/要求太多的餐馆（日文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/chumon-no-ooi-ryoriten.png",
+      "export_mib": "0.5",
       "status": "ok"
     },
     {
@@ -709,10 +742,10 @@
     {
       "book_id": "ginga-tetsudo",
       "family": "jp-zh",
-      "edition": "zh-main",
+      "edition": "jp-main",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/jp-zh/ginga-tetsudo/zh-main/blackwhite/银河铁道之夜（日文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/jp-zh/ginga-tetsudo/zh-main/blackwhite/银河铁道之夜（日文注・黑白）・最大語種・大字版.pdf",
+      "export_pdf": "docs/pocketpolyglot/books/jp-zh/ginga-tetsudo/jp-main/blackwhite/銀河鉄道の夜（中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/jp-zh/ginga-tetsudo/jp-main/blackwhite/銀河鉄道の夜（中文注・黑白）・最大語種・大字版.pdf",
       "preview": "assets/max-language-previews/ginga-tetsudo.png",
       "export_mib": "1.6",
       "status": "ok"
@@ -729,14 +762,14 @@
       "status": "ok"
     },
     {
-      "book_id": "kojiki",
+      "book_id": "ginga-tetsudo",
       "family": "jp-zh",
-      "edition": "jp-main",
+      "edition": "zh-main",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/jp-zh/kojiki/jp-main/blackwhite/古事記（中文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/jp-zh/kojiki/jp-main/blackwhite/古事記（中文注・黑白）・最大語種・大字版.pdf",
-      "preview": "assets/max-language-previews/kojiki.png",
-      "export_mib": "3.1",
+      "export_pdf": "docs/pocketpolyglot/books/jp-zh/ginga-tetsudo/zh-main/blackwhite/银河铁道之夜（日文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/jp-zh/ginga-tetsudo/zh-main/blackwhite/银河铁道之夜（日文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/ginga-tetsudo.png",
+      "export_mib": "1.6",
       "status": "ok"
     },
     {
@@ -753,10 +786,10 @@
     {
       "book_id": "kojiki",
       "family": "jp-zh",
-      "edition": "zh-main",
+      "edition": "jp-main",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/jp-zh/kojiki/zh-main/blackwhite/古事記（日文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/jp-zh/kojiki/zh-main/blackwhite/古事記（日文注・黑白）・最大語種・大字版.pdf",
+      "export_pdf": "docs/pocketpolyglot/books/jp-zh/kojiki/jp-main/blackwhite/古事記（中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/jp-zh/kojiki/jp-main/blackwhite/古事記（中文注・黑白）・最大語種・大字版.pdf",
       "preview": "assets/max-language-previews/kojiki.png",
       "export_mib": "3.1",
       "status": "ok"
@@ -773,14 +806,14 @@
       "status": "ok"
     },
     {
-      "book_id": "sichuan-folk-stories-vol1",
+      "book_id": "kojiki",
       "family": "jp-zh",
-      "edition": "jp-main",
+      "edition": "zh-main",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/jp-zh/sichuan-folk-stories-vol1/jp-main/blackwhite/中国民間故事集成四川巻上（中文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/jp-zh/sichuan-folk-stories-vol1/jp-main/blackwhite/中国民間故事集成四川巻上（中文注・黑白）・最大語種・大字版.pdf",
-      "preview": "assets/max-language-previews/sichuan-folk-stories-vol1.png",
-      "export_mib": "22.2",
+      "export_pdf": "docs/pocketpolyglot/books/jp-zh/kojiki/zh-main/blackwhite/古事記（日文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/jp-zh/kojiki/zh-main/blackwhite/古事記（日文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/kojiki.png",
+      "export_mib": "3.1",
       "status": "ok"
     },
     {
@@ -797,10 +830,10 @@
     {
       "book_id": "sichuan-folk-stories-vol1",
       "family": "jp-zh",
-      "edition": "zh-main",
+      "edition": "jp-main",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/jp-zh/sichuan-folk-stories-vol1/zh-main/blackwhite/中国民间故事集成四川卷上（日文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/jp-zh/sichuan-folk-stories-vol1/zh-main/blackwhite/中国民间故事集成四川卷上（日文注・黑白）・最大語種・大字版.pdf",
+      "export_pdf": "docs/pocketpolyglot/books/jp-zh/sichuan-folk-stories-vol1/jp-main/blackwhite/中国民間故事集成四川巻上（中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/jp-zh/sichuan-folk-stories-vol1/jp-main/blackwhite/中国民間故事集成四川巻上（中文注・黑白）・最大語種・大字版.pdf",
       "preview": "assets/max-language-previews/sichuan-folk-stories-vol1.png",
       "export_mib": "22.2",
       "status": "ok"
@@ -817,14 +850,14 @@
       "status": "ok"
     },
     {
-      "book_id": "sishu-jizhu",
+      "book_id": "sichuan-folk-stories-vol1",
       "family": "jp-zh",
-      "edition": "jp-main",
+      "edition": "zh-main",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/jp-zh/sishu-jizhu/jp-main/blackwhite/四書章句集注（中文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/jp-zh/sishu-jizhu/jp-main/blackwhite/四書章句集注（中文注・黑白）・最大語種・大字版.pdf",
-      "preview": "assets/max-language-previews/sishu-jizhu.png",
-      "export_mib": "0.7",
+      "export_pdf": "docs/pocketpolyglot/books/jp-zh/sichuan-folk-stories-vol1/zh-main/blackwhite/中国民间故事集成四川卷上（日文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/jp-zh/sichuan-folk-stories-vol1/zh-main/blackwhite/中国民间故事集成四川卷上（日文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/sichuan-folk-stories-vol1.png",
+      "export_mib": "22.2",
       "status": "ok"
     },
     {
@@ -841,10 +874,10 @@
     {
       "book_id": "sishu-jizhu",
       "family": "jp-zh",
-      "edition": "zh-main",
+      "edition": "jp-main",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/jp-zh/sishu-jizhu/zh-main/blackwhite/四書章句集註（日文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/jp-zh/sishu-jizhu/zh-main/blackwhite/四書章句集註（日文注・黑白）・最大語種・大字版.pdf",
+      "export_pdf": "docs/pocketpolyglot/books/jp-zh/sishu-jizhu/jp-main/blackwhite/四書章句集注（中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/jp-zh/sishu-jizhu/jp-main/blackwhite/四書章句集注（中文注・黑白）・最大語種・大字版.pdf",
       "preview": "assets/max-language-previews/sishu-jizhu.png",
       "export_mib": "0.7",
       "status": "ok"
@@ -861,14 +894,14 @@
       "status": "ok"
     },
     {
-      "book_id": "sishu-jizhu-aginti",
+      "book_id": "sishu-jizhu",
       "family": "jp-zh",
-      "edition": "jp-main",
+      "edition": "zh-main",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/jp-zh/sishu-jizhu-aginti/jp-main/blackwhite/四書章句集注（中文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/jp-zh/sishu-jizhu-aginti/jp-main/blackwhite/四書章句集注（中文注・黑白）・最大語種・大字版.pdf",
-      "preview": "assets/max-language-previews/sishu-jizhu-aginti.png",
-      "export_mib": "13.6",
+      "export_pdf": "docs/pocketpolyglot/books/jp-zh/sishu-jizhu/zh-main/blackwhite/四書章句集註（日文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/jp-zh/sishu-jizhu/zh-main/blackwhite/四書章句集註（日文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/sishu-jizhu.png",
+      "export_mib": "0.7",
       "status": "ok"
     },
     {
@@ -885,12 +918,12 @@
     {
       "book_id": "sishu-jizhu-aginti",
       "family": "jp-zh",
-      "edition": "zh-main",
+      "edition": "jp-main",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/jp-zh/sishu-jizhu-aginti/zh-main/blackwhite/四書章句集註（日文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/jp-zh/sishu-jizhu-aginti/zh-main/blackwhite/四書章句集註（日文注・黑白）・最大語種・大字版.pdf",
+      "export_pdf": "docs/pocketpolyglot/books/jp-zh/sishu-jizhu-aginti/jp-main/blackwhite/四書章句集注（中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/jp-zh/sishu-jizhu-aginti/jp-main/blackwhite/四書章句集注（中文注・黑白）・最大語種・大字版.pdf",
       "preview": "assets/max-language-previews/sishu-jizhu-aginti.png",
-      "export_mib": "13.7",
+      "export_mib": "13.6",
       "status": "ok"
     },
     {
@@ -905,14 +938,124 @@
       "status": "ok"
     },
     {
-      "book_id": "han-shu",
+      "book_id": "sishu-jizhu-aginti",
+      "family": "jp-zh",
+      "edition": "zh-main",
+      "mode": "blackwhite",
+      "export_pdf": "docs/pocketpolyglot/books/jp-zh/sishu-jizhu-aginti/zh-main/blackwhite/四書章句集註（日文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/jp-zh/sishu-jizhu-aginti/zh-main/blackwhite/四書章句集註（日文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/sishu-jizhu-aginti.png",
+      "export_mib": "13.7",
+      "status": "ok"
+    },
+    {
+      "book_id": "kokin-wakashu",
+      "family": "wayakana-en-jp-zh",
+      "edition": "en-main-jp-zh",
+      "mode": "color",
+      "export_pdf": "docs/pocketpolyglot/books/wayakana-en-jp-zh/kokin-wakashu/en-main-jp-zh/color/Kokin Wakashu（日文・中文注）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wayakana-en-jp-zh/kokin-wakashu/en-main-jp-zh/color/Kokin Wakashu（日文・中文注）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/kokin-wakashu.png",
+      "export_mib": "4.5",
+      "status": "ok"
+    },
+    {
+      "book_id": "kokin-wakashu",
+      "family": "wayakana-en-jp-zh",
+      "edition": "en-main-jp-zh",
+      "mode": "blackwhite",
+      "export_pdf": "docs/pocketpolyglot/books/wayakana-en-jp-zh/kokin-wakashu/en-main-jp-zh/blackwhite/Kokin Wakashu（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wayakana-en-jp-zh/kokin-wakashu/en-main-jp-zh/blackwhite/Kokin Wakashu（日文・中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/kokin-wakashu.png",
+      "export_mib": "3.8",
+      "status": "ok"
+    },
+    {
+      "book_id": "kokin-wakashu",
+      "family": "wayakana-en-jp-zh",
+      "edition": "wayakana-main-en-zh",
+      "mode": "color",
+      "export_pdf": "docs/pocketpolyglot/books/wayakana-en-jp-zh/kokin-wakashu/wayakana-main-en-zh/color/古今和歌集（英文・中文注）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wayakana-en-jp-zh/kokin-wakashu/wayakana-main-en-zh/color/古今和歌集（英文・中文注）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/kokin-wakashu.png",
+      "export_mib": "4.6",
+      "status": "ok"
+    },
+    {
+      "book_id": "kokin-wakashu",
+      "family": "wayakana-en-jp-zh",
+      "edition": "wayakana-main-en-zh",
+      "mode": "blackwhite",
+      "export_pdf": "docs/pocketpolyglot/books/wayakana-en-jp-zh/kokin-wakashu/wayakana-main-en-zh/blackwhite/古今和歌集（英文・中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wayakana-en-jp-zh/kokin-wakashu/wayakana-main-en-zh/blackwhite/古今和歌集（英文・中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/kokin-wakashu.png",
+      "export_mib": "3.8",
+      "status": "ok"
+    },
+    {
+      "book_id": "manyoshu",
+      "family": "wayakana-en-jp-zh",
+      "edition": "wayakana-main-en-zh",
+      "mode": "color",
+      "export_pdf": "docs/pocketpolyglot/books/wayakana-en-jp-zh/manyoshu/wayakana-main-en-zh/color/万葉集（英文・中文注）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wayakana-en-jp-zh/manyoshu/wayakana-main-en-zh/color/万葉集（英文・中文注）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/manyoshu.png",
+      "export_mib": "20.8",
+      "status": "ok"
+    },
+    {
+      "book_id": "manyoshu",
+      "family": "wayakana-en-jp-zh",
+      "edition": "wayakana-main-en-zh",
+      "mode": "blackwhite",
+      "export_pdf": "docs/pocketpolyglot/books/wayakana-en-jp-zh/manyoshu/wayakana-main-en-zh/blackwhite/万葉集（英文・中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wayakana-en-jp-zh/manyoshu/wayakana-main-en-zh/blackwhite/万葉集（英文・中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/manyoshu.png",
+      "export_mib": "17.0",
+      "status": "ok"
+    },
+    {
+      "book_id": "chuci",
+      "family": "wenyan-en-jp-zh",
+      "edition": "wenyan-main-quadrilingual",
+      "mode": "color",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/chuci/wenyan-main-quadrilingual/color/楚辭（英文・現代日本語・現代中文注）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/chuci/wenyan-main-quadrilingual/color/楚辭（英文・現代日本語・現代中文注）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/chuci.png",
+      "export_mib": "5.8",
+      "status": "ok"
+    },
+    {
+      "book_id": "chuci",
       "family": "wenyan-en-jp-zh",
       "edition": "wenyan-main-quadrilingual",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/han-shu/wenyan-main-quadrilingual/blackwhite/漢書（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/han-shu/wenyan-main-quadrilingual/blackwhite/漢書（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
-      "preview": "assets/max-language-previews/han-shu.png",
-      "export_mib": "11.4",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/chuci/wenyan-main-quadrilingual/blackwhite/楚辭（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/chuci/wenyan-main-quadrilingual/blackwhite/楚辭（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/chuci.png",
+      "export_mib": "5.1",
+      "status": "ok"
+    },
+    {
+      "book_id": "foguoji",
+      "family": "wenyan-en-jp-zh",
+      "edition": "wenyan-main-quadrilingual",
+      "mode": "color",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/foguoji/wenyan-main-quadrilingual/color/佛國記（英文・現代日本語・現代中文注）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/foguoji/wenyan-main-quadrilingual/color/佛國記（英文・現代日本語・現代中文注）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/foguoji.png",
+      "export_mib": "7.2",
+      "status": "ok"
+    },
+    {
+      "book_id": "foguoji",
+      "family": "wenyan-en-jp-zh",
+      "edition": "wenyan-main-quadrilingual",
+      "mode": "blackwhite",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/foguoji/wenyan-main-quadrilingual/blackwhite/佛國記（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/foguoji/wenyan-main-quadrilingual/blackwhite/佛國記（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/foguoji.png",
+      "export_mib": "7.0",
       "status": "ok"
     },
     {
@@ -923,18 +1066,84 @@
       "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/han-shu/wenyan-main-quadrilingual/color/漢書（英文・現代日本語・現代中文注）・最大語種・大字版.pdf",
       "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/han-shu/wenyan-main-quadrilingual/color/漢書（英文・現代日本語・現代中文注）・最大語種・大字版.pdf",
       "preview": "assets/max-language-previews/han-shu.png",
-      "export_mib": "13.4",
+      "export_mib": "96.9",
       "status": "ok"
     },
     {
-      "book_id": "kojiki-wenyan",
+      "book_id": "han-shu",
       "family": "wenyan-en-jp-zh",
       "edition": "wenyan-main-quadrilingual",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/kojiki-wenyan/wenyan-main-quadrilingual/blackwhite/古事記（現代日本語・現代中文・英文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/kojiki-wenyan/wenyan-main-quadrilingual/blackwhite/古事記（現代日本語・現代中文・英文注・黑白）・最大語種・大字版.pdf",
-      "preview": "assets/max-language-previews/kojiki-wenyan.png",
-      "export_mib": "6.0",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/han-shu/wenyan-main-quadrilingual/blackwhite/漢書（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/han-shu/wenyan-main-quadrilingual/blackwhite/漢書（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/han-shu.png",
+      "export_mib": "80.1",
+      "status": "ok"
+    },
+    {
+      "book_id": "hou-han-shu-part-01",
+      "family": "wenyan-en-jp-zh",
+      "edition": "wenyan-main-quadrilingual",
+      "mode": "color",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/hou-han-shu-part-01/wenyan-main-quadrilingual/color/後漢書第一部（英文・現代日本語・現代中文注）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/hou-han-shu-part-01/wenyan-main-quadrilingual/color/後漢書第一部（英文・現代日本語・現代中文注）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/hou-han-shu-part-01.png",
+      "export_mib": "47.1",
+      "status": "ok"
+    },
+    {
+      "book_id": "hou-han-shu-part-01",
+      "family": "wenyan-en-jp-zh",
+      "edition": "wenyan-main-quadrilingual",
+      "mode": "blackwhite",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/hou-han-shu-part-01/wenyan-main-quadrilingual/blackwhite/後漢書第一部（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/hou-han-shu-part-01/wenyan-main-quadrilingual/blackwhite/後漢書第一部（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/hou-han-shu-part-01.png",
+      "export_mib": "43.5",
+      "status": "ok"
+    },
+    {
+      "book_id": "hou-han-shu-part-02",
+      "family": "wenyan-en-jp-zh",
+      "edition": "wenyan-main-quadrilingual",
+      "mode": "color",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/hou-han-shu-part-02/wenyan-main-quadrilingual/color/後漢書第二部（英文・現代日本語・現代中文注）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/hou-han-shu-part-02/wenyan-main-quadrilingual/color/後漢書第二部（英文・現代日本語・現代中文注）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/hou-han-shu-part-02.png",
+      "export_mib": "47.0",
+      "status": "ok"
+    },
+    {
+      "book_id": "hou-han-shu-part-02",
+      "family": "wenyan-en-jp-zh",
+      "edition": "wenyan-main-quadrilingual",
+      "mode": "blackwhite",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/hou-han-shu-part-02/wenyan-main-quadrilingual/blackwhite/後漢書第二部（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/hou-han-shu-part-02/wenyan-main-quadrilingual/blackwhite/後漢書第二部（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/hou-han-shu-part-02.png",
+      "export_mib": "43.4",
+      "status": "ok"
+    },
+    {
+      "book_id": "hou-han-shu-part-03",
+      "family": "wenyan-en-jp-zh",
+      "edition": "wenyan-main-quadrilingual",
+      "mode": "color",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/hou-han-shu-part-03/wenyan-main-quadrilingual/color/後漢書第三部（英文・現代日本語・現代中文注）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/hou-han-shu-part-03/wenyan-main-quadrilingual/color/後漢書第三部（英文・現代日本語・現代中文注）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/hou-han-shu-part-03.png",
+      "export_mib": "38.4",
+      "status": "ok"
+    },
+    {
+      "book_id": "hou-han-shu-part-03",
+      "family": "wenyan-en-jp-zh",
+      "edition": "wenyan-main-quadrilingual",
+      "mode": "blackwhite",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/hou-han-shu-part-03/wenyan-main-quadrilingual/blackwhite/後漢書第三部（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/hou-han-shu-part-03/wenyan-main-quadrilingual/blackwhite/後漢書第三部（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/hou-han-shu-part-03.png",
+      "export_mib": "35.5",
       "status": "ok"
     },
     {
@@ -949,14 +1158,36 @@
       "status": "ok"
     },
     {
-      "book_id": "nihon-shoki",
+      "book_id": "kojiki-wenyan",
       "family": "wenyan-en-jp-zh",
       "edition": "wenyan-main-quadrilingual",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/nihon-shoki/wenyan-main-quadrilingual/blackwhite/日本書紀（現代日本語・現代中文・英文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/nihon-shoki/wenyan-main-quadrilingual/blackwhite/日本書紀（現代日本語・現代中文・英文注・黑白）・最大語種・大字版.pdf",
-      "preview": "assets/max-language-previews/nihon-shoki.png",
-      "export_mib": "20.7",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/kojiki-wenyan/wenyan-main-quadrilingual/blackwhite/古事記（現代日本語・現代中文・英文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/kojiki-wenyan/wenyan-main-quadrilingual/blackwhite/古事記（現代日本語・現代中文・英文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/kojiki-wenyan.png",
+      "export_mib": "6.0",
+      "status": "ok"
+    },
+    {
+      "book_id": "mudanting",
+      "family": "wenyan-en-jp-zh",
+      "edition": "wenyan-main-quadrilingual",
+      "mode": "color",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/mudanting/wenyan-main-quadrilingual/color/牡丹亭（英文・現代日本語・現代中文注）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/mudanting/wenyan-main-quadrilingual/color/牡丹亭（英文・現代日本語・現代中文注）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/mudanting.png",
+      "export_mib": "11.9",
+      "status": "ok"
+    },
+    {
+      "book_id": "mudanting",
+      "family": "wenyan-en-jp-zh",
+      "edition": "wenyan-main-quadrilingual",
+      "mode": "blackwhite",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/mudanting/wenyan-main-quadrilingual/blackwhite/牡丹亭（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/mudanting/wenyan-main-quadrilingual/blackwhite/牡丹亭（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/mudanting.png",
+      "export_mib": "10.0",
       "status": "ok"
     },
     {
@@ -971,14 +1202,36 @@
       "status": "ok"
     },
     {
-      "book_id": "sanguozhi",
+      "book_id": "nihon-shoki",
       "family": "wenyan-en-jp-zh",
       "edition": "wenyan-main-quadrilingual",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/sanguozhi/wenyan-main-quadrilingual/blackwhite/三國志（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/sanguozhi/wenyan-main-quadrilingual/blackwhite/三國志（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
-      "preview": "assets/max-language-previews/sanguozhi.png",
-      "export_mib": "38.4",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/nihon-shoki/wenyan-main-quadrilingual/blackwhite/日本書紀（現代日本語・現代中文・英文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/nihon-shoki/wenyan-main-quadrilingual/blackwhite/日本書紀（現代日本語・現代中文・英文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/nihon-shoki.png",
+      "export_mib": "20.7",
+      "status": "ok"
+    },
+    {
+      "book_id": "platform-sutra",
+      "family": "wenyan-en-jp-zh",
+      "edition": "wenyan-main-quadrilingual",
+      "mode": "color",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/platform-sutra/wenyan-main-quadrilingual/color/六祖大師法寶壇經（英文・現代日本語・現代中文注）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/platform-sutra/wenyan-main-quadrilingual/color/六祖大師法寶壇經（英文・現代日本語・現代中文注）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/platform-sutra.png",
+      "export_mib": "11.2",
+      "status": "ok"
+    },
+    {
+      "book_id": "platform-sutra",
+      "family": "wenyan-en-jp-zh",
+      "edition": "wenyan-main-quadrilingual",
+      "mode": "blackwhite",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/platform-sutra/wenyan-main-quadrilingual/blackwhite/六祖大師法寶壇經（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/platform-sutra/wenyan-main-quadrilingual/blackwhite/六祖大師法寶壇經（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/platform-sutra.png",
+      "export_mib": "11.1",
       "status": "ok"
     },
     {
@@ -989,18 +1242,18 @@
       "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/sanguozhi/wenyan-main-quadrilingual/color/三國志（英文・現代日本語・現代中文注）・最大語種・大字版.pdf",
       "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/sanguozhi/wenyan-main-quadrilingual/color/三國志（英文・現代日本語・現代中文注）・最大語種・大字版.pdf",
       "preview": "assets/max-language-previews/sanguozhi.png",
-      "export_mib": "46.8",
+      "export_mib": "46.5",
       "status": "ok"
     },
     {
-      "book_id": "sanguozhi-pei-zhu",
+      "book_id": "sanguozhi",
       "family": "wenyan-en-jp-zh",
       "edition": "wenyan-main-quadrilingual",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/sanguozhi-pei-zhu/wenyan-main-quadrilingual/blackwhite/三國志裴松之注（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/sanguozhi-pei-zhu/wenyan-main-quadrilingual/blackwhite/三國志裴松之注（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
-      "preview": "assets/max-language-previews/sanguozhi-pei-zhu.png",
-      "export_mib": "63.3",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/sanguozhi/wenyan-main-quadrilingual/blackwhite/三國志（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/sanguozhi/wenyan-main-quadrilingual/blackwhite/三國志（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/sanguozhi.png",
+      "export_mib": "38.1",
       "status": "ok"
     },
     {
@@ -1011,18 +1264,150 @@
       "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/sanguozhi-pei-zhu/wenyan-main-quadrilingual/color/三國志裴松之注（英文・現代日本語・現代中文注）・最大語種・大字版.pdf",
       "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/sanguozhi-pei-zhu/wenyan-main-quadrilingual/color/三國志裴松之注（英文・現代日本語・現代中文注）・最大語種・大字版.pdf",
       "preview": "assets/max-language-previews/sanguozhi-pei-zhu.png",
-      "export_mib": "78.5",
+      "export_mib": "81.9",
       "status": "ok"
     },
     {
-      "book_id": "xu-xiake-youji",
+      "book_id": "sanguozhi-pei-zhu",
       "family": "wenyan-en-jp-zh",
       "edition": "wenyan-main-quadrilingual",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/xu-xiake-youji/wenyan-main-quadrilingual/blackwhite/徐霞客遊記（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/xu-xiake-youji/wenyan-main-quadrilingual/blackwhite/徐霞客遊記（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
-      "preview": "assets/max-language-previews/xu-xiake-youji.png",
-      "export_mib": "52.2",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/sanguozhi-pei-zhu/wenyan-main-quadrilingual/blackwhite/三國志裴松之注（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/sanguozhi-pei-zhu/wenyan-main-quadrilingual/blackwhite/三國志裴松之注（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/sanguozhi-pei-zhu.png",
+      "export_mib": "67.2",
+      "status": "ok"
+    },
+    {
+      "book_id": "shanhaijing",
+      "family": "wenyan-en-jp-zh",
+      "edition": "wenyan-main-quadrilingual",
+      "mode": "color",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/shanhaijing/wenyan-main-quadrilingual/color/山海經（英文・現代日本語・現代中文注）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/shanhaijing/wenyan-main-quadrilingual/color/山海經（英文・現代日本語・現代中文注）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/shanhaijing.png",
+      "export_mib": "11.7",
+      "status": "ok"
+    },
+    {
+      "book_id": "shanhaijing",
+      "family": "wenyan-en-jp-zh",
+      "edition": "wenyan-main-quadrilingual",
+      "mode": "blackwhite",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/shanhaijing/wenyan-main-quadrilingual/blackwhite/山海經（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/shanhaijing/wenyan-main-quadrilingual/blackwhite/山海經（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/shanhaijing.png",
+      "export_mib": "11.4",
+      "status": "ok"
+    },
+    {
+      "book_id": "shijing",
+      "family": "wenyan-en-jp-zh",
+      "edition": "wenyan-main-quadrilingual",
+      "mode": "color",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/shijing/wenyan-main-quadrilingual/color/詩經（英文・現代日本語・現代中文注）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/shijing/wenyan-main-quadrilingual/color/詩經（英文・現代日本語・現代中文注）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/shijing.png",
+      "export_mib": "3.9",
+      "status": "ok"
+    },
+    {
+      "book_id": "shijing",
+      "family": "wenyan-en-jp-zh",
+      "edition": "wenyan-main-quadrilingual",
+      "mode": "blackwhite",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/shijing/wenyan-main-quadrilingual/blackwhite/詩經（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/shijing/wenyan-main-quadrilingual/blackwhite/詩經（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/shijing.png",
+      "export_mib": "3.4",
+      "status": "ok"
+    },
+    {
+      "book_id": "shui-jing-zhu",
+      "family": "wenyan-en-jp-zh",
+      "edition": "wenyan-main-quadrilingual",
+      "mode": "color",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/shui-jing-zhu/wenyan-main-quadrilingual/color/水經注（英文・現代日本語・現代中文注）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/shui-jing-zhu/wenyan-main-quadrilingual/color/水經注（英文・現代日本語・現代中文注）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/shui-jing-zhu.png",
+      "export_mib": "3.8",
+      "status": "ok"
+    },
+    {
+      "book_id": "shui-jing-zhu",
+      "family": "wenyan-en-jp-zh",
+      "edition": "wenyan-main-quadrilingual",
+      "mode": "blackwhite",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/shui-jing-zhu/wenyan-main-quadrilingual/blackwhite/水經注（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/shui-jing-zhu/wenyan-main-quadrilingual/blackwhite/水經注（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/shui-jing-zhu.png",
+      "export_mib": "3.7",
+      "status": "ok"
+    },
+    {
+      "book_id": "tangshi-sanbai",
+      "family": "wenyan-en-jp-zh",
+      "edition": "wenyan-main-quadrilingual",
+      "mode": "color",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/tangshi-sanbai/wenyan-main-quadrilingual/color/唐詩三百首（英文・現代日本語・現代中文注）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/tangshi-sanbai/wenyan-main-quadrilingual/color/唐詩三百首（英文・現代日本語・現代中文注）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/tangshi-sanbai.png",
+      "export_mib": "5.8",
+      "status": "ok"
+    },
+    {
+      "book_id": "tangshi-sanbai",
+      "family": "wenyan-en-jp-zh",
+      "edition": "wenyan-main-quadrilingual",
+      "mode": "blackwhite",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/tangshi-sanbai/wenyan-main-quadrilingual/blackwhite/唐詩三百首（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/tangshi-sanbai/wenyan-main-quadrilingual/blackwhite/唐詩三百首（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/tangshi-sanbai.png",
+      "export_mib": "5.1",
+      "status": "ok"
+    },
+    {
+      "book_id": "vimalakirti-sutra",
+      "family": "wenyan-en-jp-zh",
+      "edition": "wenyan-main-quadrilingual",
+      "mode": "color",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/vimalakirti-sutra/wenyan-main-quadrilingual/color/維摩詰所說經（英文・現代日本語・現代中文注）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/vimalakirti-sutra/wenyan-main-quadrilingual/color/維摩詰所說經（英文・現代日本語・現代中文注）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/vimalakirti-sutra.png",
+      "export_mib": "14.0",
+      "status": "ok"
+    },
+    {
+      "book_id": "vimalakirti-sutra",
+      "family": "wenyan-en-jp-zh",
+      "edition": "wenyan-main-quadrilingual",
+      "mode": "blackwhite",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/vimalakirti-sutra/wenyan-main-quadrilingual/blackwhite/維摩詰所說經（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/vimalakirti-sutra/wenyan-main-quadrilingual/blackwhite/維摩詰所說經（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/vimalakirti-sutra.png",
+      "export_mib": "13.7",
+      "status": "ok"
+    },
+    {
+      "book_id": "xixiangji",
+      "family": "wenyan-en-jp-zh",
+      "edition": "wenyan-main-quadrilingual",
+      "mode": "color",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/xixiangji/wenyan-main-quadrilingual/color/西廂記（英文・現代日本語・現代中文注）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/xixiangji/wenyan-main-quadrilingual/color/西廂記（英文・現代日本語・現代中文注）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/xixiangji.png",
+      "export_mib": "6.2",
+      "status": "ok"
+    },
+    {
+      "book_id": "xixiangji",
+      "family": "wenyan-en-jp-zh",
+      "edition": "wenyan-main-quadrilingual",
+      "mode": "blackwhite",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/xixiangji/wenyan-main-quadrilingual/blackwhite/西廂記（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/xixiangji/wenyan-main-quadrilingual/blackwhite/西廂記（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/xixiangji.png",
+      "export_mib": "5.3",
       "status": "ok"
     },
     {
@@ -1037,14 +1422,36 @@
       "status": "ok"
     },
     {
-      "book_id": "zhuangzi",
+      "book_id": "xu-xiake-youji",
       "family": "wenyan-en-jp-zh",
       "edition": "wenyan-main-quadrilingual",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/zhuangzi/wenyan-main-quadrilingual/blackwhite/莊子（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/zhuangzi/wenyan-main-quadrilingual/blackwhite/莊子（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
-      "preview": "assets/max-language-previews/zhuangzi.png",
-      "export_mib": "9.1",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/xu-xiake-youji/wenyan-main-quadrilingual/blackwhite/徐霞客遊記（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/xu-xiake-youji/wenyan-main-quadrilingual/blackwhite/徐霞客遊記（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/xu-xiake-youji.png",
+      "export_mib": "52.2",
+      "status": "ok"
+    },
+    {
+      "book_id": "yijing",
+      "family": "wenyan-en-jp-zh",
+      "edition": "wenyan-main-quadrilingual",
+      "mode": "color",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/yijing/wenyan-main-quadrilingual/color/周易（英文・現代日本語・現代中文注）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/yijing/wenyan-main-quadrilingual/color/周易（英文・現代日本語・現代中文注）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/yijing.png",
+      "export_mib": "11.6",
+      "status": "ok"
+    },
+    {
+      "book_id": "yijing",
+      "family": "wenyan-en-jp-zh",
+      "edition": "wenyan-main-quadrilingual",
+      "mode": "blackwhite",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/yijing/wenyan-main-quadrilingual/blackwhite/周易（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/yijing/wenyan-main-quadrilingual/blackwhite/周易（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/yijing.png",
+      "export_mib": "11.1",
       "status": "ok"
     },
     {
@@ -1059,14 +1466,36 @@
       "status": "ok"
     },
     {
-      "book_id": "shiji-aginti",
-      "family": "wenyan-jp-zh",
-      "edition": "wenyan-main-jp-zh",
+      "book_id": "zhuangzi",
+      "family": "wenyan-en-jp-zh",
+      "edition": "wenyan-main-quadrilingual",
       "mode": "blackwhite",
-      "export_pdf": "docs/pocketpolyglot/books/wenyan-jp-zh/shiji-aginti/wenyan-main-jp-zh/blackwhite/史記（現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
-      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-jp-zh/shiji-aginti/wenyan-main-jp-zh/blackwhite/史記（現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
-      "preview": "assets/max-language-previews/shiji-aginti.png",
-      "export_mib": "54.1",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/zhuangzi/wenyan-main-quadrilingual/blackwhite/莊子（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/zhuangzi/wenyan-main-quadrilingual/blackwhite/莊子（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/zhuangzi.png",
+      "export_mib": "9.1",
+      "status": "ok"
+    },
+    {
+      "book_id": "zuozhuan",
+      "family": "wenyan-en-jp-zh",
+      "edition": "wenyan-main-quadrilingual",
+      "mode": "color",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/zuozhuan/wenyan-main-quadrilingual/color/春秋左氏傳（英文・現代日本語・現代中文注）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/zuozhuan/wenyan-main-quadrilingual/color/春秋左氏傳（英文・現代日本語・現代中文注）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/zuozhuan.png",
+      "export_mib": "29.5",
+      "status": "ok"
+    },
+    {
+      "book_id": "zuozhuan",
+      "family": "wenyan-en-jp-zh",
+      "edition": "wenyan-main-quadrilingual",
+      "mode": "blackwhite",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/zuozhuan/wenyan-main-quadrilingual/blackwhite/春秋左氏傳（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-en-jp-zh/zuozhuan/wenyan-main-quadrilingual/blackwhite/春秋左氏傳（英文・現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/zuozhuan.png",
+      "export_mib": "27.5",
       "status": "ok"
     },
     {
@@ -1079,7 +1508,17 @@
       "preview": "assets/max-language-previews/shiji-aginti.png",
       "export_mib": "52.4",
       "status": "ok"
+    },
+    {
+      "book_id": "shiji-aginti",
+      "family": "wenyan-jp-zh",
+      "edition": "wenyan-main-jp-zh",
+      "mode": "blackwhite",
+      "export_pdf": "docs/pocketpolyglot/books/wenyan-jp-zh/shiji-aginti/wenyan-main-jp-zh/blackwhite/史記（現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "tracked_pdf": "docs/pocketpolyglot/books/wenyan-jp-zh/shiji-aginti/wenyan-main-jp-zh/blackwhite/史記（現代日本語・現代中文注・黑白）・最大語種・大字版.pdf",
+      "preview": "assets/max-language-previews/shiji-aginti.png",
+      "export_mib": "54.1",
+      "status": "ok"
     }
-  ],
-  "skipped": []
+  ]
 }
