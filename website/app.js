@@ -14,6 +14,9 @@ let activeFamily = "all";
 const familyLabels = {
   "en-jp-zh": "English / 日本語 / 中文",
   "jp-zh": "日本語 / 中文",
+  "wayakana-en-jp-zh": "和歌仮名 / English / 日本語 / 中文",
+  "ar-en-jp-zh": "العربية / English / 日本語 / 中文",
+  "arabic-en-jp-zh": "العربية / English / 日本語 / 中文",
   "wenyan-en-jp-zh": "文言文 / English / 日本語 / 中文",
   "wenyan-jp-zh": "文言文 / 日本語 / 中文",
 };
@@ -38,6 +41,8 @@ function stripTitle(path) {
 function editionLabel(edition) {
   const labels = {
     "en-main-jp-zh": "English main / 日本語 / 中文",
+    "wayakana-main-en-zh": "和歌仮名 main / English / 中文",
+    "arabic-main-quadrilingual": "العربية main / English / 日本語 / 中文",
     "wenyan-main-quadrilingual": "文言文 main / English / 日本語 / 中文",
     "wenyan-main-jp-zh": "文言文 main / 日本語 / 中文",
     "jp-main": "日本語 main / 中文",
